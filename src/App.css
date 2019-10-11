@@ -121,6 +121,10 @@ ul {
   transform: scale(1.05);
 }
 
+/* .pigTile:active {
+  transform: rotateY(180deg) scale(1.05);
+} */
+
 
 .App-logo {
   animation: App-logo-spin infinite 5s linear;
@@ -138,3 +142,5 @@ ul {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+
